@@ -1,5 +1,5 @@
 
-let mode = 0;
+let mode = 1;
 let change_button;
 let lod = 4; let falloff = 0.2; let color_diff = 50;
 let lod_slider, falloff_slider, color_slider;
