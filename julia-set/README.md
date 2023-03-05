@@ -20,7 +20,15 @@ Where $f_{c}^{n}(z)$ is the $n$ th iteration of the function. The Julia set $J(f
 
 ## Examples
 
+![julia-21508](https://user-images.githubusercontent.com/43313293/222982338-0ffeb666-be54-4233-87b8-b6bd43d784bb.png)
 
+![julia-151386](https://user-images.githubusercontent.com/43313293/222982341-1b8b4109-0cc7-417d-baba-ddef815e821c.png)
+
+![julia-156886](https://user-images.githubusercontent.com/43313293/222982344-48b6ec67-b57a-41aa-af33-b12838ae31b5.png)
+
+![julia-13210](https://user-images.githubusercontent.com/43313293/222982348-52e52d69-2e95-49d6-a100-b41abb56318e.png)
+
+![julia-159906](https://user-images.githubusercontent.com/43313293/222982349-79688e02-aa69-4211-af85-4562c0b96ce4.png)
 
 ## Implementation
 
