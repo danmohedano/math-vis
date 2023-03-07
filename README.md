@@ -43,6 +43,7 @@ A lot of things! Here is a preview of the currently implemented projects:
 
 #### [Prime Race](https://github.com/danmohedano/math-vis/tree/main/prime-race)
 
+![figure2](https://user-images.githubusercontent.com/43313293/223521847-68134a6f-4832-4496-b2aa-c9e5c05ab35c.png)
 
 ## But how (does it work)?
 
