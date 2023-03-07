@@ -41,6 +41,8 @@ A lot of things! Here is a preview of the currently implemented projects:
 
 ![julia-21508](https://user-images.githubusercontent.com/43313293/222983215-17007b1e-0da5-4ced-869d-e6970071b535.png)
 
+#### [Prime Race](https://github.com/danmohedano/math-vis/tree/main/prime-race)
+
 
 ## But how (does it work)?
 
